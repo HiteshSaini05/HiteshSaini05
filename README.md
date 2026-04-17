@@ -6,7 +6,7 @@
 
 <p align="center">
   🔭 Sharpening problem-solving skills on LeetCode & Codeforces <br/>
-  🌱 Currently learning full-stack development <br/>
+  🌱 Currently exploring Machine Learning<br/>
   💬 Ask me about competitive programming, C++, or Python
 </p>
 
